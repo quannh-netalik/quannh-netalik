@@ -6,12 +6,14 @@ Hi, I'm Quan Nguyen, a web/app developer based in Vietnam. I enjoy coding enterp
 🌟 About Me
 - Full Stack Developer with over 5 years of experience in developing and optimizing enterprise-level applications.
 - Adept at designing scalable architectures, implementing best practices, and ensuring high-quality code.
+- Have a good understanding of processes in the Software Development Life Cycle.
   
 🚀 My Skills
 - Programming Languages: JavaScript, Typescript
 - Frameworks & Libraries: Node.js, React.js
 - Databases: MySQL, PostgreSQL, MongoDB
 - Cloud Platforms: AWS
+- Credly: <a href="https://www.credly.com/users/quannh-netalik/edit" target="blank">Link</a>
 
 💬 Let's Connect
 - 💬 Ask me about anything
